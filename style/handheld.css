@@ -1,12 +1,12 @@
 @media only screen and (max-width : 800px) {
    *{padding: 0; margin: 0; transition: all .3s;}
 
-h1 { font-size: 1.5em; padding: 7px 0 0 0;}
-h2 { font-size: 1.3em; padding: 6px;}
-h3 { font-size: 1.2em; padding: 5px;}
-h4 { font-size: 1.15em; padding: 4px;}
-h5 { font-size: 1em; padding: 2px;}
-h6 { font-size: .8em; padding: 1px;}
+h1 { font-size: 1.75em; padding: 7px 0 0 0;}
+h2 { font-size: 1.5em; padding: 6px;}
+h3 { font-size: 1.3em; padding: 5px;}
+h4 { font-size: 1.25em; padding: 4px;}
+h5 { font-size: 1.1em; padding: 2px;}
+h6 { font-size: .9em; padding: 1px;}
 
 p {text-align: justify; padding:2px;}
 td, th {padding: 3px;}
@@ -28,12 +28,12 @@ box-shadow: 0 10px 15px #8DAFE2, 0 0 1em #87D6E2;}
 @media only screen and (max-width : 600px) {
    *{padding: 0; margin: 0; transition: all .3s;}
 
-h1 { font-size: 1.5em; padding: 7px 0 0 0;}
-h2 { font-size: 1.3em; padding: 6px;}
-h3 { font-size: 1.2em; padding: 5px;}
-h4 { font-size: 1.15em; padding: 4px;}
-h5 { font-size: 1em; padding: 2px;}
-h6 { font-size: .8em; padding: 1px;}
+h1 { font-size: 1.75em; padding: 7px 0 0 0;}
+h2 { font-size: 1.5em; padding: 6px;}
+h3 { font-size: 1.3em; padding: 5px;}
+h4 { font-size: 1.25em; padding: 4px;}
+h5 { font-size: 1.1em; padding: 2px;}
+h6 { font-size: .9em; padding: 1px;}
 
 p {text-align: left; padding:1px;}
 td, th {padding: 2px;}
@@ -51,12 +51,12 @@ box-shadow: 0 10px 15px #8DAFE2, 0 0 1em #87D6E2;}
 @media only screen and (max-width : 480px) {
 * {padding: 0; margin: 0; transition: all .3s;}
 
-h1 { font-size: 1.5em; padding: 6px 0 0 0;}
-h2 { font-size: 1.3em; padding: 5px;}
-h3 { font-size: 1.2em; padding: 4px;}
-h4 { font-size: 1.1em; padding: 3px;}
-h5 { font-size: 1em; padding: 2px;}
-h6 { font-size: .7em; padding: 1px;}
+h1 { font-size: 1.75em; padding: 6px 0 0 0;}
+h2 { font-size: 1.5em; padding: 5px;}
+h3 { font-size: 1.3em; padding: 4px;}
+h4 { font-size: 1.25em; padding: 3px;}
+h5 { font-size: 1.1em; padding: 2px;}
+h6 { font-size: .8em; padding: 1px;}
 
 p {text-align: left; padding:1px;}
 td, th {padding: 2px;}
@@ -69,7 +69,7 @@ box-shadow: 0 10px 15px #8DAFE2, 0 0 1em #87D6E2;}
 img {margin: 2px;}
 .imgcenter {text-align:center; max-width:100%; padding-top: 2px; padding-bottom: 2px;}
 
-iframe {scrolling:no; margin:0;border:1px solid; width:240px}
+iframe {margin:0;border:1px solid; width:240px}
 .anekdot {background: #ddd; border-radius: 3px; text-align: left; color: #4B1000; padding: 5px; margin: 5px 0 5px 0; border: 1px dashed #1C319C;}
 
 }

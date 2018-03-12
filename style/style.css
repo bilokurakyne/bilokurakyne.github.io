@@ -42,10 +42,10 @@ pre {font-family: verdana, serif; font-size:.9em; color: #000099;}
 
 img {margin: 5px;}
 a img {border: 0;}
-.imgleft {float: left; padding-right: 5px;}
-.imgcenter {text-align:center; max-width:100%; padding-top: 5px; padding-bottom: 5px;}
-.imgright {float: right; padding-left: 5px;}
-.flexible-image {max-width: 100%; margin: 5px;}
+.imgleft {float: left; padding-right: 3px;}
+.imgcenter {text-align:center; max-width:100%; padding: 3px 0 3px 0;}
+.imgright {float: right; padding-left: 3px;}
+.flexible-image {max-width: 100%; margin: 1px;}
 
 .videowrap {margin: 10px auto;}
 .videoblock {position: relative; padding-bottom: 65.25%; height: 0; overflow: hidden;}
