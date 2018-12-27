@@ -12,10 +12,10 @@ p {text-align: justify; padding:2px;}
 td, th {padding: 5px;}
 .menu-header li {display: block;}
 .menu-header a {display: block; padding: 5px; border-right: 1px solid #ADC0CE; background: #ddd; color: #005689;
-font-size:1.2em;}
+font-size:2em}
 a {padding:7px 5px 7px 5px; margin:1px;}
 
-.month {font-size:1.1em; font-family: tahoma; text-align:center;}
+.month {font-size:1.5em; font-family: tahoma; text-align:center;}
 
 main {display: grid; grid-template-columns: 1fr; grid-template-rows: 1fr; grid-column-gap:1px; grid-row-gap:1px; 
 border: 1px solid #000; border-radius: 5px; max-width: 1600px; min-height: 800px; background: #E2E2C3; margin: 0 auto; 
