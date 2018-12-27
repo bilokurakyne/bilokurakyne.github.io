@@ -1,0 +1,6 @@
+﻿# Rule 1
+User-agent: *
+Allow: /
+
+Sitemap: http://blkportal.pp.ua/sitemap.xml
+Sitemap: https://blkportal.pp.ua/sitemap.xml
