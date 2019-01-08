@@ -1,0 +1,23 @@
+        * {padding: 0; margin: 0; transition: all .2s;}
+        body {background: #EDE4C7; font-family: Arial, Helvetica, sans-serif}
+        header {background: #347B98; padding: 0; color: #fff; text-shadow: 5px 5px 5px black, 2px 2px 10px red; text-align: center; margin: 0;}
+        main {display: grid; grid-template-columns:2fr 6fr 2fr;}
+        p {background-color: #eee; padding: 5px 20px 5px 20px; text-align: justify;}
+        .content {max-width: 1140px;}
+        details summary {/*заголовок для клика*/position: relative; background: #99D2D0; padding: 2px 10px 0px 20px; margin: 2px; border-radius: 3px; color: #000; font-weight: bold; cursor: pointer;}
+        details summary::-webkit-details-marker {/*треугольник*/position: absolute; left: 5px; top: 30%;}
+        details[open] summary {/*цвет строки-заголовка в открытом виде*/background: #9ED8BF;}
+        strong {font-weight: 600;}
+        .menu-header {background:#34091C; text-align: center;}
+        .menu-header li {display: inline-block; margin:5px; padding: 0}
+        .menu-header li a {color: #fff; text-decoration: none; padding: 0 5px 0 5px;}
+        .menu-header li a:hover {color: #fff; text-decoration: none; box-shadow: 0 0 2px yellow, 0 0 2em #3AE2CE;}
+        footer {background: #347B98; text-align: center; padding: 10px 0 10px 0;}
+        .hidden {font-size:.1em;}
+
+@media only screen and (max-width : 800px) {
+   *{padding: 0; margin: 0; transition: all .3s;}
+
+   main {display: grid; grid-template-columns: 1fr; grid-template-rows: 1fr; grid-column-gap:1px; grid-row-gap:1px; margin: 0 auto;}
+   h1 {font-size:1.5em;}
+}
