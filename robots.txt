@@ -1,6 +1,6 @@
-# Rule 1
+﻿# Rule 1
 User-agent: *
 Allow: /
 
-Sitemap: http://bilokurakyne.github.io/sitemap.xml
-Sitemap: https://bilokurakyne.github.io/sitemap.xml
+Sitemap: http://blkportal.pp.ua/sitemap.xml
+Sitemap: https://blkportal.pp.ua/sitemap.xml
