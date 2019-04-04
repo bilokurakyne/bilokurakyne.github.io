@@ -29,6 +29,8 @@ main {display: grid; grid-template-columns:2fr 6fr 2fr; grid-template-rows:1fr; 
     box-shadow: 0 10px 15px #8DAFE2, 0 0 1em #87D6E2;}
 
 pre {font-family: verdana, serif; font-size:.9em; color: #000099;}
+ol {padding-left: 20px;}
+ul {padding-left: 10px;}
 
 .seach {font-size:.9em;}
 .content {background: #eee; border: 1px solid #ccc; border-radius: 5px; padding:10px; margin: 10px 5px 10px 5px;}
