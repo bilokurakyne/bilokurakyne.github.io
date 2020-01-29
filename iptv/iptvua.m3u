@@ -1,0 +1,222 @@
+#EXTM3U
+#EXTINF:-1,=== Українські телеканали: 30.01.2020 ===
+
+#EXTINF:-1,Інтер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,Інтер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1,ІНТЕР
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1,1+1 HD
+https://dl.dropbox.com/s/1pq0dxy9qpe0v29/VLC_1plus1_HD_.m3u
+#EXTINF:-1,НТН
+http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1,НТН
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1,ICTV
+http://217.21.34.158:30000/ICTV/index.m3u8
+#EXTINF:-1,СТБ
+http://217.21.34.158:30000/stb/index.m3u8
+#EXTINF:-1,Новий канал
+http://217.21.34.158:30000/NovyKanal/index.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:0,K2
+http://188.35.9.11:11072/d
+#EXTINF:-1,Мега
+http://188.35.9.5:10007/stolen/140r/parasite.install
+#EXTINF:-1,Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:0,Bolt
+http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
+
+#EXTINF:-1,Еко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1,Еко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4
+
+
+#EXTINF:-1,UA Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+#EXTINF:-1,UA Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
+#EXTINF:-1,UA Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4
+#EXTINF:-1,UA Одесса
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4
+
+#EXTINF:-1,UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4
+#EXTINF:-1,UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:-1,UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:-1,UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+
+#EXTINF:-1,Громадське ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8?codec=mpeg4
+#EXTINF:-1,Громадске
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
+#EXTINF:-1,Громадське ТВ HD
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:-1,Hromadske TV (HD)
+http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8?codec=mpeg4
+
+#EXTINF:-1,Прямий
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,Прямий
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+#EXTINF:-1,Прямий
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+#EXTINF:-1,Прямий HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+
+#EXTINF:-1,Еспресо HD
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
+#EXTINF:-1,Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+
+#EXTINF:-1,КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4
+#EXTINF:-1,ТРК Київ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+
+#EXTINF:-1,24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1,24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+
+#EXTINF:-1,4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1,4 канал Украина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4
+
+#EXTINF:-1,Наш
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1,НАШ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
+
+#EXTINF:-1,112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
+#EXTINF:-1,112 Україна
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1,112 Україна HD
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1,112 Україна [FHD]
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+
+#EXTINF:-1,КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4
+#EXTINF:-1,Киев ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4
+
+#EXTINF:-1,Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,Правда ТУТ Київ
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+
+#EXTINF:-1,Перший Діловий
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+
+#EXTINF:-1,Рада ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
+
+#EXTINF:-1,Перший Діловий
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1,Перший Діловий
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+
+#EXTINF:-1,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?codec=mpeg4
+#EXTINF:-1,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+
+#EXTINF:-1,Київ онлайн
+http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1,ТРК Київ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1,ТРК Київ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4
+EXTINF:-1,КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+
+#EXTINF:-1,А1 (Одеса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+#EXTINF:-1,А1 (Одеса) [HD]
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+
+#EXTINF:-1,Академія
+http://cdn1.live-tv.od.ua:8081/36chod/36chod/playlist.m3u8
+#EXTINF:-1,Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+
+#EXTINF:-1,Глас
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+
+#EXTINF:-1,Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1,Балта ТВ
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1,Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+
+#EXTINF:-1,21 канал (Ужгород)
+http://213.174.8.7:8000/play/1/index.m3u8
+#EXTINF:-1,ВТВ-Плюс (Херсон)
+#EXTVLCOPT:network-caching=1000
+http://iptv.rubintele.com:8552/play/a007
+#EXTINF:0,Думская TV HD (Одеса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1,Град (Одеса)
+http://91.194.78.165:8810/hls_sec/239.0.19.20-.m3u8
+
+#EXTINF:-1,Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+#EXTINF:-1,Малятко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1,LALE
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1,M1 HITS
+https://flavors-proxy.m1.tv//flavors/2/1080/stream.m3u8
+#EXTINF:-1,M1 CLASSIC
+https://flavors-proxy.m1.tv//flavors/1/1080/stream.m3u8
+#EXTINF:-1,M1 HIP-HOP
+https://flavors-proxy.m1.tv//flavors/3/1080/stream.m3u8
+#EXTINF:0,М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,РАИ (музика)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1,MusicBox UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,OTV Music
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+
+#EXTINF:-1,24 канал
+https://youtu.be/dktSRgBzANg
+#EXTINF:-1,5 канал
+https://youtu.be/QeuK36LAxqM
+#EXTINF:-1,Прямий
+https://youtu.be/tiWrQKDHs6I
+#EXTINF:-1,Громадське
+https://youtu.be/07aztv_kHIM
+#EXTINF:-1,Еспресо TV
+https://youtu.be/iTO9Nafubhk
+#EXTINF:-1,Україна 24
+https://youtu.be/z1oV4ij1ork
+#EXTINF:-1,112 канал
+https://youtu.be/3Q11d6I21PE
+#EXTINF:-1,NewsOne
+https://youtu.be/3e0FsU1N6OQ
+#EXTINF:-1,НАШ
+https://youtu.be/dktSRgBzANg
+#EXTINF:-1,ZiK
+https://youtu.be/gutdqyz26x0
+
+#EXTINF:-1,т/с Сваты (все серии)
+https://youtu.be/x3NjeoGeckQ
