@@ -188,7 +188,7 @@ http://212.26.146.148/hls/otv.m3u8
 
 #EXTINF:-1,RU TV
 https://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8
-EXTINF:-1,RU TV HD
+#EXTINF:-1,RU TV HD
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1,Russian Music Box
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
@@ -345,7 +345,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-EXTINF:-1,ДОЖДЬ
+#EXTINF:-1,ДОЖДЬ
 https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
 #EXTINF:-1,Новое Телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
@@ -388,7 +388,7 @@ http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8
 http://serv30.vintera.tv:8081/sibirj/kuzbass24/playlist.m3u8
 #EXTINF:-1,Курай ТВ
 http://bsttv.bonus-tv.ru:80/cdn/kurai/tracks-v1a1/index.m3u8
-EXTINF:-1,Грозный ТВ
+#EXTINF:-1,Грозный ТВ
 http://live2.mediacdn.ru/sr1/grozny/chunklist_b1498000.m3u8
 #EXTINF:-1,Дагестан ТВ
 http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8
@@ -405,7 +405,7 @@ https://sc.id-tv.kz/ElArna_38_39.m3u8
 #EXTINF:-1,CGTN Русский
 http://live.cgtn.com/1000r/prog_index.m3u8
 
-EXTINF:-1,Kazakh TV Ru
+#EXTINF:-1,Kazakh TV Ru
 http://212.8.233.150:8081/kazahtv/stream_kz/playlist.m3u8
 #EXTINF:-1,Первый канал "Евразия"
 http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
@@ -455,7 +455,7 @@ https://stream.hoster.by/belarus24hd/livehd/playlist.m3u8
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1,Беларусь 4 (Витебск)
 http://95.46.208.8:26258/belarus4
-EXTINF:-1,НАШЕ ТВ Беларусь
+#EXTINF:-1,НАШЕ ТВ Беларусь
 http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
 #EXTINF:-1,Наше ТВ Витебск Беларусь
 http://95.46.208.8:26259/nashe
