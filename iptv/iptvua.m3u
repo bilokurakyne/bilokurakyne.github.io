@@ -1,54 +1,54 @@
 #EXTM3U
 #EXTINF:-1,=== Українські телеканали: 30.01.2020 ===
 
-#EXTINF:-1,24 канал
+#EXTINF:-1 group-title="Українські на YouTube",24 канал
 https://youtu.be/03YfM4lfCGE
-#EXTINF:-1,5 канал
+#EXTINF:-1 group-title="Українські на YouTube",5 канал
 https://youtu.be/lTg8BpQhhxE
-#EXTINF:-1,Прямий
+#EXTINF:-1 group-title="Українські на YouTube",Прямий
 https://youtu.be/tiWrQKDHs6I
-#EXTINF:-1,Громадське
+#EXTINF:-1 group-title="Українські на YouTube",Громадське
 https://youtu.be/07aztv_kHIM
-#EXTINF:-1,Еспресо TV
+#EXTINF:-1 group-title="Українські на YouTube",Еспресо TV
 https://youtu.be/iTO9Nafubhk
-#EXTINF:-1,ZiK
+#EXTINF:-1 group-title="Українські на YouTube",ZiK
 https://youtu.be/gutdqyz26x0
-#EXTINF:-1,Україна 24
+#EXTINF:-1 group-title="Українські на YouTube",Україна 24
 https://youtu.be/z1oV4ij1ork
-#EXTINF:-1,112 канал
+#EXTINF:-1 group-title="Українські на YouTube",112 канал
 https://youtu.be/3Q11d6I21PE
-#EXTINF:-1,NewsOne
+#EXTINF:-1 group-title="Українські на YouTube",NewsOne
 https://youtu.be/3e0FsU1N6OQ
-#EXTINF:-1,НАШ
+#EXTINF:-1 group-title="Українські на YouTube",НАШ
 https://youtu.be/dktSRgBzANg
-#EXTINF:-1,Рабинович ТВ
+#EXTINF:-1 group-title="Українські на YouTube",Рабинович ТВ
 https://youtu.be/9Yd0HKvozr4
 
-#EXTINF:-1,Інтер
+#EXTINF:-1 group-title="Українські",Інтер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1,Інтер
+#EXTINF:-1 group-title="Українські",Інтер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1,ІНТЕР
+#EXTINF:-1 group-title="Українські",ІНТЕР
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
 
-#EXTINF:-1,1+1 HD
+#EXTINF:-1 group-title="Українські",1+1 HD
 http://dl.dropbox.com/s/1pq0dxy9qpe0v29/VLC_1plus1_HD_.m3u
 
-#EXTINF:-1,НТН
+#EXTINF:-1 group-title="Українські",НТН
 https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
-#EXTINF:-1,НТН
+#EXTINF:-1 group-title="Українські",НТН
 http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 
-#EXTINF:-1,ICTV
+#EXTINF:-1 group-title="Українські",ICTV
 http://217.21.34.158:30000/ICTV/index.m3u8
 
-#EXTINF:-1,СТБ
+#EXTINF:-1 group-title="Українські",СТБ
 http://217.21.34.158:30000/stb/index.m3u8
 
-#EXTINF:-1,Новий канал
+#EXTINF:-1 group-title="Українські",Новий канал
 http://217.21.34.158:30000/NovyKanal/index.m3u8
 
-#EXTINF:-1,NTA
+#EXTINF:-1 group-title="Українські",NTA
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 
 #EXTINF:-1,К1
@@ -221,44 +221,44 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
 #EXTINF:-1,OTV Music
 http://212.26.146.148/hls/otv.m3u8
 
-#EXTINF:-1,НТВ YouTube
+#EXTINF:-1 group-title="YouTube online",НТВ YouTube
 https://youtu.be/wqPby9nOAKI
-#EXTINF:-1,РОССИЯ 24 YouTube
+#EXTINF:-1 group-title="YouTube online",РОССИЯ 24 YouTube
 https://youtu.be/8T9SFZDP60Q
-#EXTINF:-1,Мир 24 YouTube
+#EXTINF:-1 group-title="YouTube online",Мир 24 YouTube
 https://youtu.be/fc6IJmpMcEQ
-#EXTINF:-1,РБК YouTube
+#EXTINF:-1 group-title="YouTube online",РБК YouTube
 https://youtu.be/o-wH54cty5c
-#EXTINF:-1,Euronews-Россия YouTube
+#EXTINF:-1 group-title="YouTube online",Euronews-Россия YouTube
 https://youtu.be/X0rMLGyJVoc
-#EXTINF:-1,Москва 24 YouTube
+#EXTINF:-1 group-title="YouTube online",Москва 24 YouTube
 https://youtu.be/e12myorIZHQ
-#EXTINF:-1,ТК Дождь YouTube
+#EXTINF:-1 group-title="YouTube online",ТК Дождь YouTube
 https://youtu.be/50czbbduH98
-#EXTINF:-1,Вести ФМ YouTube
+#EXTINF:-1 group-title="YouTube online",Вести ФМ YouTube
 https://youtu.be/zUIE8CGN8Ok
-#EXTINF:-1,Настоящее время YouTube
+#EXTINF:-1 group-title="YouTube online",Настоящее время YouTube
 https://youtu.be/yGIJgHYkcoE
 
-#EXTINF:-1,Россия 1 HD
+#EXTINF:-1 group-title="Центральные",Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 1 HD
+#EXTINF:-1 group-title="Центральные",Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 1 +6 (Чита)
+#EXTINF:-1 group-title="Центральные",Россия 1 +6 (Чита)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
-#EXTINF:-1,Россия РТР
+#EXTINF:-1 group-title="Центральные",Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Первый канал
+#EXTINF:-1 group-title="Центральные",Первый канал
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1,Москва 24
+#EXTINF:-1 group-title="Центральные",Москва 24
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Russia Today Док
+#EXTINF:-1 group-title="Центральные",Russia Today Док
 http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1,Россия К
+#EXTINF:-1 group-title="Центральные",Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Московский образовательный ТВ HD
+#EXTINF:-1 group-title="Центральные",Московский образовательный ТВ HD
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1,РБК ТВ
+#EXTINF:-1 group-title="Центральные",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1,РБК ТВ
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
