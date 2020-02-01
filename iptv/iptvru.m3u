@@ -1,0 +1,919 @@
+#EXTM3U
+#EXTINF:-1,=== Російські телеканали: 01.02.2020 ===
+
+#EXTINF:-1 group-title="YouTube online",НТВ YouTube
+https://youtu.be/wqPby9nOAKI
+#EXTINF:-1 group-title="YouTube online",РОССИЯ 24 YouTube
+https://youtu.be/8T9SFZDP60Q
+#EXTINF:-1 group-title="YouTube online",Мир 24 YouTube
+https://youtu.be/fc6IJmpMcEQ
+#EXTINF:-1 group-title="YouTube online",РБК YouTube
+https://youtu.be/o-wH54cty5c
+#EXTINF:-1 group-title="YouTube online",Euronews-Россия YouTube
+https://youtu.be/X0rMLGyJVoc
+#EXTINF:-1 group-title="YouTube online",Москва 24 YouTube
+https://youtu.be/e12myorIZHQ
+#EXTINF:-1 group-title="YouTube online",ТК Дождь YouTube
+https://youtu.be/50czbbduH98
+#EXTINF:-1 group-title="YouTube online",Вести ФМ YouTube
+https://youtu.be/zUIE8CGN8Ok
+#EXTINF:-1 group-title="YouTube online",Настоящее время YouTube
+https://youtu.be/yGIJgHYkcoE
+#EXTINF:-1 group-title="YouTube online",Авторадио YouTube
+https://youtu.be/krI2-vfzRF8
+#EXTINF:-1 group-title="YouTube online",Good Life Radio YouTube
+https://youtu.be/VIWVfkF2IeI
+
+#EXTINF:-1 group-title="Російські",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Російські",Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Російські",Россия 1 +6 (Чита)
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1 group-title="Російські",Россия 1 (ГТРК Чувашия)
+http://chgtrk.ru/pl/stream/hls/R1_360p/index.m3u8
+#EXTINF:-1 group-title="Російські",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Російські",Первый канал
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1 group-title="Російські",Москва 24
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Російські",Russia Today Док
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Російські",Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Російські",Московский образовательный ТВ HD
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="Російські",360°
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Російські",360°
+http://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1 group-title="Російські",360°
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="Російські",360° Новости
+http://360tv-cdn.facecast.io/360/channel1/1.m3u8
+#EXTINF:-1 group-title="Російські",47 Канал (ЛенТВ 24)
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 group-title="Російські",8 Канал
+http://176.99.110.252/stream8/playlist.m3u8
+#EXTINF:-1 group-title="Російські",Akudji
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+
+#EXTINF:-1 group-title="Російські",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="Російські",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="Російські",РБК ТВ
+http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="Російські",РБК ТВ (Екатеринбург)
+http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8
+#EXTINF:-1 group-title="Російські",РБК ТВ (Уфа)
+http://92.50.128.180/utv/1358/index.m3u8
+
+#EXTINF:-1 group-title="Російські",ТНТ HD auto
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:,ТНТ4 (HD)
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:,ТНТ4 HD
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-1,ТНТ 4 HD
+http://195.191.208.2:8086/udp/233.170.170.130:58631
+#EXTINF:-1,Супер
+http://212.29.231.242:8080/btv_353/mpegts
+#EXTINF:-1,Супер HD
+http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:,ПЯТНИЦА! HD
+http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:,Пятница! HD (auto)
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1,Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:-1,СТС International
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1,СТС International SD
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1,СТС Kids
+http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8?version=2
+#EXTINF:-1,Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1,Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1,Новый мир
+http://persik.by/stream/8682/252987/10231.m3u8
+
+#EXTINF:-1,Мир SD (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+#EXTINF:-1,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,МИР Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир 24 (Казахстан)
+https://sc.id-tv.kz/Mir24_38_39.m3u8
+
+#EXTINF:0,Рен ТВ
+http://185.176.117.243/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
+#EXTINF:-1,Рен ТВ SD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1,Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,Рен ТВ International
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF:-1,Рен ТВ International
+https://sc.id-tv.kz/RenTV_38_39.m3u8
+
+#EXTINF:-1,Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1,ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+#EXTINF:-1,Звезда
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
+#EXTINF:-1,Парк Патриот HD
+http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
+#EXTINF:-1,Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1,Ностальгия
+http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8
+#EXTINF:-1,Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,Известия ТВ FHD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,ДОЖДЬ
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
+#EXTINF:-1,Новое Телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,НАШЕ ТВ
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1,Варяг ТВ
+http://87.252.229.252:8081/varag
+#EXTINF:-1,WFC TV Ru
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+#EXTINF:-1,Сарафан
+http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8
+#EXTINF:-1,Точка ТВ
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+
+#EXTINF:-1,8 Канал (Красноярск)
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1,12 канал
+http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CGTN Русский
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1,Абаза ТВ
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+#EXTINF:-1,Арис 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1,Архыз 24 (Карачаево-Черкессия)
+http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1,Архыз 24 HD (Карачаево-Черкессия)
+http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
+#EXTINF:-1,Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1,Астрахань 24 HD
+http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Афонтово (Красноярск)
+http://xstream.afontovo.ru/afontovo_ya.m3u8
+#EXTINF:-1,БСТ Башкортостан
+http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8
+#EXTINF:-1,Башкортостан 24 HD
+http://live.gtrk.tv/720/b24-720.m3u8
+#EXTINF:-1,Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1,Ветта 24 (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1,Волгоград 24
+http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
+#EXTINF:-1,Волжский Плюс
+http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
+#EXTINF:-1,Вся Уфа
+https://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
+#EXTINF:-1,Губерния Самарская
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1,Грозный ТВ
+http://live2.mediacdn.ru/sr1/grozny/chunklist_b1498000.m3u8
+#EXTINF:-1,ЧГТРК Грозный
+http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
+EXTINF:-1,Губерния 33 (Владимир)
+http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+#EXTINF:-1,Губерния (Воронеж)
+http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
+#EXTINF:-1,Губерния (Самара)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1,Дагестан ТВ
+http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8
+#EXTINF:-1,Дагестан ТВ [FHD]
+http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8
+#EXTINF:-1,Евразия
+http://paideuma.tv:1941/live/Stream1/playlist.m3u8
+#EXTINF:-1,Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1,Евразия (Орск)
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1,Илли
+http://cdn.illi.tv/illitv_2000/index.m3u8
+#EXTINF:-1,Ингушетия ТВ
+http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
+#EXTINF:-1,ИТВ Симферополь
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:-1,Июнь (Междуреченск)
+http://hls.m-ten.ru:8080/hls/21/live.m3u8
+#EXTINF:-1,Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1,Кавказ 24 Ставрополь
+http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
+#EXTINF:-1,Крым 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1,Кубань 24 Орбита
+https://stream.kuban24.tv:1500/hls/stream.m3u8
+#EXTINF:-1,Кузбасс 24
+http://serv30.vintera.tv:8081/sibirj/kuzbass24/playlist.m3u8
+#EXTINF:-1,Курай ТВ
+http://bsttv.bonus-tv.ru:80/cdn/kurai/tracks-v1a1/index.m3u8
+#EXTINF:-1,ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1,Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1,mtb
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1,Миг ТВ (Ноябрьск)
+http://live-migtv.cdnvideo.ru/migtv/migtv.sdp/playlist.m3u8
+#EXTINF:-1,Миллет Крим
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1,Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1,Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,Мир Белогорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,Мордовия 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1,MTV (Уфа)
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1,Моя Удмуртия
+https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+#EXTINF:-1,Наш дом
+http://85.234.33.60/stream/c11.m3u8
+#EXTINF:-1,НТМ HD Мордовия
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1,НТМ (Мордовия)
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,ОНТ (Общественное Независимое Телевидение)
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:0,ОНТ
+http://178.124.183.5/hls/NCLEFHVZGR_HLS/variant.m3u8?version=2
+#EXTINF:-1,Одинцово ТВ
+http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:-1,ОТР - Общественное телевидение России
+http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
+#EXTINF:-1,ОТР
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
+#EXTINF:-1,Первый Крымский
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1,Санкт-Петербург
+http://stream2.topspb.tv:1935/dev/smil:reserve.smil/playlist.m3u8
+#EXTINF:-1,СГДФ 24 (Свердлов)
+http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
+#EXTINF:-1,Север (Нарьян-Мар)
+http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
+#EXTINF:-1,Север (Нарьян-Мар)
+http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
+#EXTINF:-1,Север (Нарьян-Мар)
+http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1,Сочи 24 HD
+http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+#EXTINF:-1,СТС (Мурманск)
+http://tv21.inmurmansk.ru/full_stream.flv
+#EXTINF:-1,С1 (Сургут)
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1,Сургут 24
+http://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1,Тамыр
+http://bsttv.bonus-tv.ru:80/cdn/tamyr/tracks-v1a1/index.m3u8
+#EXTINF:-1,Татарстан-24
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+#EXTINF:-1,ТВР 24 (Сергиев Посад)
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+#EXTINF:-1,Телеканал 86 (Сургут) HD
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1,Тивиком (Улан-Удэ)
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1,Тольятти 24
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+#EXTINF:-1,Туган Тел
+http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
+#EXTINF:-1,Тюменское Время
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1,ТНВ Планета
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Удмуртия
+http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+#EXTINF:-1,УрФО 24
+http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
+#EXTINF:-1,Хузур ТВ (TRT1) HD
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1,Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1,Эхо TV (Рязань)
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1,Югра
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1,Юрган
+http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
+#EXTINF:-1,ЮТВ (Чебоксары)
+http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Українські",Глас
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 group-title="Українські",Надiя
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+#EXTINF:-1,Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1,Союз
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1,МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1,Hope TV
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1,Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1,Небеса ТВ7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1,Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 group-title="Російські",Buy Home TV
+http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
+
+#EXTINF:-1,Наше Новое Кино
+http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8
+#EXTINF:-1,STAR CINEMA
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2
+#EXTINF:-1,STAR FAMILY
+http://178.124.183.5/hls/CH_FAMILY/variant.m3u8?version=2
+#EXTINF:-1,Русский иллюзион
+http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8
+#EXTINF:0,Поехали Int
+http://178.124.183.5/hls/V8TRED4CZL_HLS/variant.m3u8?version=2
+#EXTINF:-1,Кино UHD
+http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:0,Русский Роман HD
+http://188.35.9.5:10007/stolen/127k/parasite.install
+#EXTINF:-1,НСТ
+http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
+
+#EXTINF:-1,Marvel ТВ
+http://v3.myowntv.org/content/35525/index.m3u8
+#EXTINF:-1,Sony Channel HD
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
+#EXTINF:-1,Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
+#EXTINF:-1,Sony Sci-Fi
+http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
+#EXTINF:-1,FOX
+http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1,FOX Life
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
+#EXTINF:-1,HD Media
+http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1,ViP Comedy
+http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Megahit
+http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Premiere
+http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Serial
+https://rt-cache1.peers.tv/streaming/viasat_golf_hd/16/copy/playlist.m3u8
+#EXTINF:-1,ViP Megahit HD
+http://188.35.9.11:2016
+#EXTINF:-1,ViP Premiere HD
+http://188.35.9.15:2013
+
+#EXTINF:-1,TV1000
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
+#EXTINF:-1,TV1000 Action
+http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
+#EXTINF:-1,TV1000 Русское кино
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
+#EXTINF:-1,TV1000
+http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,TV1000 Action
+http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+
+#EXTINF:-1,3 film
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,KVN-HD
+http://hls.goodgame.ru:8080/hls/172148.m3u8
+#EXTINF:-1,Кинозал 3 ULTO
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1,Кинозал 7 (Evgen СССР)
+https://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:-1,Кинозал 8 (Evgen Ужасы)
+https://v2.catcast.me/content/36277/index.m3u8
+#EXTINF:-1,Кинозал 9 (Карате ТВ)
+https://v2.catcast.me/content/37316/index.m3u8
+#EXTINF:-1,Кинозал 11 (Film TV)
+http://195.9.195.3:8080/hls/165462.m3u8
+#EXTINF:-1,FILM TV
+http://195.9.195.3:8080/manifest/165462_master.m3u8
+#EXTINF:-1,NateRou
+#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,312 Кино HD
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:-1,Киномикс
+http://86.57.225.245:7015/play/a005
+#EXTINF:-1,Киномикс
+http://217.21.34.158:30000/Kinomix/index.m3u8
+#EXTINF:0,Киномикс
+http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
+#EXTINF:0,Кинопремиум HD
+http://195.162.90.141:8080/fa6eca5757e2029ce6f0e5e9ff90d952
+#EXTINF:-1,Киносвидание
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
+#EXTINF:-1,Киносвидание
+http://217.21.34.158:30000/Kinosvidanie/index.m3u8
+#EXTINF:-1,Кинохит
+http://217.21.34.158:30000/Kinohit/index.m3u8
+#EXTINF:0,Кинохит
+http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
+#EXTINF:-1,Киносерия
+http://217.21.34.158:30000/MnogoTV/index.m3u8
+#EXTINF:-1,Киносерия
+http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8?version=2
+#EXTINF:-1,Кинопремьера HD
+http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
+#EXTINF:-1,Киносемья
+http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
+#EXTINF:-1,Киносемья
+http://86.57.225.245:7015/play/a00p
+#EXTINF:-1,Классика кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,Мужское кино
+http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
+#EXTINF:-1,Мужское кино
+http://86.57.225.245:7015/play/a00r
+#EXTINF:0,Мужское кино HD
+http://89.223.6.7/muzhskoe-kino_hd/mono.m3u8?token=t.me/iptv6
+#EXTINF:0,Наше Новое Кино
+http://178.124.183.5/hls/UVPWPN2KTN/variant.m3u8?version=2
+#EXTINF:0,Наше любимое кино
+http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2
+#EXTINF:0,Мир Сериала
+http://188.35.9.5:10007/stolen/125e/parasite.install
+#EXTINF:-1,Индийское кино
+http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
+#EXTINF:-1,Родное кино
+http://86.57.225.245:7015/play/a00j
+#EXTINF:0,Родное Кино
+http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
+#EXTINF:-1,Шокирующее кино HD
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1,Комедийное кино HD
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1,Остросюжетное кино HD
+http://188.35.9.26:14050/udp/238.0.14.3:69000
+
+#EXTINF:0,Amedia Premium
+http://151.0.48.26:8080/ch0135
+#EXTINF:-1,Amedia Premium HD
+http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:0,Amedia 2
+http://178.124.183.5/hls/H4DP5GK3AE_HLS/variant.m3u8?version=2
+
+#EXTINF:-1 ,КИНОПАБ Хит
+https://or-be-01.mycdn.video/pub/hit/index.m3u8
+#EXTINF:-1 ,КИНОПАБ VHS
+https://or-be-01.mycdn.video/pub/vhs/index.m3u8
+#EXTINF:-1 ,КИНОПАБ UHD 4K
+https://or-be-01.mycdn.video/pub/4k/index.m3u8
+#EXTINF:-1 ,КИНОПАБ Комедия
+https://or-be-01.mycdn.video/pub/comedy/index.m3u8
+#EXTINF:-1 ,КИНОПАБ Ужасы
+https://or-be-01.mycdn.video/pub/horror/index.m3u8
+#EXTINF:-1 ,КИНОПАБ Фантастика
+https://or-be-01.mycdn.video/pub/scifi/index.m3u8
+#EXTINF:-1 ,КИНОПАБ Футурама
+https://or-be-01.mycdn.video/pub/futurama/index.m3u8
+#EXTINF:-1 ,КИНОПАБ Секретные материалы
+https://or-be-01.mycdn.video/pub/xfiles/index.m3u8
+#EXTINF:-1 ,КИНОПАБ Южный Парк
+https://or-be-01.mycdn.video/pub/southpark/index.m3u8
+
+#EXTINF:-1,Epic Drama eng
+http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,Epic Drama eng
+http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1,Discovery
+http://213.174.8.7:8000/play/24/index.m3u8
+#EXTINF:-1,Неизвестная планета
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:-1,National Geographic Ru
+http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:-1,National Geographic HD En
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,National Geographic HD En
+http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,Nat Geo Wild Ru
+http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
+#EXTINF:-1,DTX
+http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1,AnimalPlanet HD
+http://217.21.34.158:30000/AnimalPlanetHD/index.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://213.174.8.7:8000/play/21/index.m3u8
+#EXTINF:-1,Galaxy
+http://178.124.183.5/hls/CH_GALAXY/variant.m3u8?version=2
+#EXTINF:0,History
+http://178.124.183.5/hls/CH_HISTORY_HLS/variant.m3u8?version=2
+#EXTINF:-1,HISTORY 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1,Oхотник и Рыболов HD
+http://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8?version=2
+#EXTINF:-1,Охота и Рыбалка
+http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
+#EXTINF:-1,Оружие
+http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
+#EXTINF:-1,LOVE NATURE
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1,Ocean TV HD
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+#EXTINF:-1,Наш Дом HD
+http://85.234.33.60/stream/c11.m3u8
+#EXTINF:-1,Загорoдный
+http://31.131.80.12:81/zagorodnyi/index.m3u8
+#EXTINF:-1,Загородный
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:0,Усадьба
+http://178.124.183.5/hls/XMC4NSRVN9_HLS/variant.m3u8?version=2
+#EXTINF:0,Драйв
+http://178.124.183.5/hls/6UTCEG6ATO_HLS/variant.m3u8?version=2
+#EXTINF:-1,Драйв
+http://188.43.116.250:8080/drive/index.m3u8
+#EXTINF:0,Наука
+http://178.124.183.5/hls/LWWBCKZAPZ_HLS/variant.m3u8?version=2
+#EXTINF:0,Моя планета
+http://178.124.183.5/hls/FV47BRVQW4_HLS/variant.m3u8?version=2
+#EXTINF:0,Техно 24
+http://178.124.183.5/hls/ZIVFRAFR2I_HLS/variant.m3u8?version=2
+#EXTINF:-1,Неизвестная планета
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:0,Моя Планета
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Зоо ТВ
+http://188.43.116.250:8080/zoo_tv/index.m3u8
+#EXTINF:-1,Brodilo.TV
+http://brodilo.tv/channel.php
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1,РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+
+#EXTINF:0,ЕДА ПРЕМИУМ HD
+http://178.124.183.5/hls/BCPKKUK5NT/variant.m3u8?version=2
+#EXTINF:-1,Food Network
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1,Brics TV HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:-1,Univer TV
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1,Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1,Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1,TVM Channel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+
+#EXTINF:0,Viasat Explore
+http://178.124.183.5/hls/JQQ83OBHTQ_HLS/variant.m3u8?version=2
+#EXTINF:0,Viasat History
+http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
+#EXTINF:0,Viasat Nature
+http://178.124.183.5/hls/BN3FTDY3T8_HLS/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature
+http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1,Viasat Explorer HD
+http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat History HD
+http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+
+#EXTINF:-1,Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,100 automoto.TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Музика",М1
+http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="Музика",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Музика",M1 HITS
+https://flavors-proxy.m1.tv//flavors/2/1080/stream.m3u8
+#EXTINF:-1 group-title="Музика",M1 CLASSIC
+https://flavors-proxy.m1.tv//flavors/1/1080/stream.m3u8
+#EXTINF:-1 group-title="Музика",M1 HIP-HOP
+https://flavors-proxy.m1.tv//flavors/3/1080/stream.m3u8
+#EXTINF:-1 group-title="Музика",MusicBox UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1 group-title="Музика",OTV Music
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="Музика",O-TV
+http://api.tv.ipnet.ua:80/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="Музика",OTV Music
+http://212.26.146.148/hls/otv.m3u8
+
+#EXTINF:-1,Bridge TV Ru
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:-1,KRATU
+http://iptv.rubintele.com:8552/play/a008
+#EXTINF:-1,HTV KG
+http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1,PULSE (VIVA RUSSIA)
+http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1,RU TV
+https://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8
+#EXTINF:-1,RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:0,RU TV Беларусь
+http://178.124.183.5/hls/XW6AGFSZJ8/variant.m3u8?version=2?seg-user-4pda-denms-ru-v1-a1
+#EXTINF:-1,Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1,SONG TV Russia
+http://songtvru.ru:8060/hd/playlist.m3u8
+#EXTINF:-1,Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1,Калейдоскоп ТВ
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1,Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1,Наше ТВ
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1,Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+
+#EXTINF:-1,Первый Балтийский Музыкальный
+https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
+#EXTINF:-1,Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1,Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300
+#EXTINF:-1,Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1,Радио Хит ТВ Орск
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1,Страна FM TV
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1,ТНТ Music
+http://178.124.183.5/hls/BCJGRB3KAX/variant.m3u8?codec=mpeg4
+#EXTINF:-1,Радио Шансон TV
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1,Радио Шансон ТВ HD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
+#EXTINF:-1,Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1,Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1,Шансон-ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/chunklist_b1996000.m3u8?hls_proxy_host=pub1.rtmp.s01.l.shansontv
+#EXTINF:-1,Шансон ТВ HD
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+
+#EXTINF:-1,Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1,Europa Plus TV
+http://178.124.183.5/hls/BHH8EKRXPO/variant.m3u8?version=2
+#EXTINF:-1,VH1
+http://185.176.117.243/live/eds/VH1/HLS_encr/VH1.m3u8
+#EXTINF:-1,Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1,MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1,1Music Channel Hungary
+http://1music.hu/1music.m3u8
+#EXTINF:-1,1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,Radio 105 TV
+http://serv07.vintera.tv:8081/restream/radio105/playlist.m3u8
+#EXTINF:-1,SONG TV Armenia
+http://songtvam.ru:8060/hd/playlist.m3u8
+#EXTINF:-1,1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1,ACB TV
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1,Radio M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,NRJ Hits
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
+#EXTINF:-1,Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1,MM-TV HD
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-1,NAGO TV
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+#EXTINF:-1,Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,Kral HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,Kral World HD
+http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
+#EXTINF:-1,UTV MUSIC
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8
+#EXTINF:-1,Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1,Eurodance 90
+https://autopilot.catcast.me/content/36987/index.m3u8
+#EXTINF:-1,Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Retro Music Tv
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,RTL 102.5 TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+#EXTINF:-1,Radio Bruno
+http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:-1,Radio Capital
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:-1,Mezzo
+http://ott-cdn.ucom.am/s35/04.m3u8
+
+#EXTINF:-1,TRACE AFRICA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1,TRACE AYITI
+http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
+#EXTINF:-1,TRACE GOSPEL
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
+#EXTINF:-1,TRACE KITOKO
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1,TRACE LATINA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+#EXTINF:-1,TRACE MZIKI
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1,TRACE NAIJA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1,TRACE SPORT STARS (звука нет)
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+#EXTINF:-1,TRACE TOCA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1,TRACE TROPICAL
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+
+#EXTINF:-1,Djing Animation HD
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1,Djing Classic HD
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1,Djing Electro Rock HD
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1,Djing French touch HD
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1,Djing Hedonist HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8
+#EXTINF:-1,Djing Hits
+https://www.djing.com/tv/i-28634-04.m3u8
+#EXTINF:-1,Djing Ibiza HD
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,Djing Karaoke HD
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1,Djing Summer Vibes HD
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1,Djing TV
+https://www.djing.com/tv/28638-04.m3u8
+#EXTINF:-1,Djing TV HD
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1,Djing Underground HD
+http://www.djing.com/tv/underground.m3u8
+
+#EXTINF:0,ID Fashion HD
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:0,HD Fashion &amp; Lifestyle UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0,World Fashion Channel Россия HD
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Naroddip
+http://hls.goodgame.ru/hls/33226.m3u8
+#EXTINF:-1,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,Nano TV HD
+http://185.46.48.16/NANO/index.m3u8
+#EXTINF:0,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Leomax
+http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8
+#EXTINF:-1,Дисконт TV
+http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Eurosport
+http://31.133.47.1:8800/eurosport
+#EXTINF:-1,Eurosport 1
+http://213.174.8.7:8000/play/15/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://31.133.47.1:8800/eurosport_2
+#EXTINF:-1,OLYMPIC CHANNEL HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,Sport 1 LT
+http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
+#EXTINF:-1,Конный мир
+https://cdn-01.bonus-tv.ru/konnyimir/tracks-v3a1/playlist.m3u8
+
+#EXTINF:-1,Viasat Спорт
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1,Setanta Sports 1
+http://178.124.183.12/hls/FWHTTL8YXU/variant.m3u8
+#EXTINF:-1,Setanta Sports 2
+http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
+#EXTINF:-1,Setanta Sports HD
+http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8?version=2
+#EXTINF:-1,Setanta Sports+ HD
+http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8?version=2
+
+#EXTINF:-1,Мульт
+http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
+#EXTINF:0,Мультиландия
+http://178.124.183.5/hls/FBYQ8KG5HM_HLS/variant.m3u8?version=2
+#EXTINF:-1,Cartoon Network Ru
+http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8?version=2
+#EXTINF:-1,Boomerang Ru
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8
+#EXTINF:0,Boomerang
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
+#EXTINF:-1,Gulli Girl Ru
+http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8
+#EXTINF:0,Gulli Girl
+http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8?version=2
+#EXTINF:-1,TiJi
+http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8
+#EXTINF:0,Tiji
+http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8?version=2
+#EXTINF:0,FAN HD
+http://217.25.216.4:8085/udp/238.2.29.234:1234
+#EXTINF:-1,Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,СКАЗКИ ЗАЙКИ
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1,Disney Channel
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1,Disney Channel
+http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1,Disney Junior
+http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1,Disney Junior
+http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1,Disney Junior En
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,Disney XD
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1,Nickelodeon En
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1,BBC Cbeebies En
+http://51.52.156.22:8888/http/003
+#EXTINF:-1,Cartoon Network En
+http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8
+#EXTINF:-1,Duck TV En
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1,Nicktoons
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1,Nick JR
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,Rik
+https://nn.geo.joj.sk/live/rik-index.m3u8
+#EXTINF:-1,TCT Kids
+http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1,Kidzone
+http://88.119.220.2/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+
+#EXTINF:-1,France 24 (ENG)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1,Deutsche Welle
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+
+#EXTINF:-1,Sky News live
+https://youtu.be/9Auq9mYxFEE
+#EXTINF:-1,Learn English 24/7
+https://youtu.be/5r3gdfJXRW4
+#EXTINF:-1,NASA ISS Live Stream
+https://youtu.be/EEIk7gwjgIM
+#EXTINF:-1,Best of Bean | Live Stream
+https://youtu.be/EEIk7gwjgIM
