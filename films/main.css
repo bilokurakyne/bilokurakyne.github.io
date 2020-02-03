@@ -1,12 +1,14 @@
 /*Сброс стилей*/
-html, body {padding: 0;margin: 0;}
+* {padding: 0; margin: 0;}
 html {font-size: 1em;}
 body {font-size: 100%;}
 a img, :link img, :visited img {border: 0;}
 
-h1 {font-size: 2em;}
+h1, h2, h3 {padding: 10px;}
 h2 {font-size: 1.5em;}
 h3 {font-size: 1.2em;}
+
+ul, ol {padding: 5px 25px;}
 
 body {font-family: verdana, arial, sans-serif; padding: 10px; color:#bbb; background: #000;}
 
