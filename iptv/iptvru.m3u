@@ -59,6 +59,9 @@ http://176.99.110.252/stream8/playlist.m3u8
 #EXTINF:-1 group-title="Російські",Akudji
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8
 
+#EXTINF:-1,GlobalStar TV
+http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
+
 #EXTINF:-1 group-title="Російські",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="Російські",РБК ТВ
@@ -222,6 +225,9 @@ http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
 http://195.5.108.14:1935/live/itv1/playlist.m3u8
 #EXTINF:-1,Июнь (Междуреченск)
 http://hls.m-ten.ru:8080/hls/21/live.m3u8
+#EXTINF:-1,Между.Net (Междуреченск)
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+
 #EXTINF:-1,Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,Кавказ 24 Ставрополь
@@ -252,7 +258,7 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1,Мордовия 24
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1,MTV (Уфа)
+#EXTINF:-1,MTVmix (Уфа)
 http://81.30.182.82:18092/hls/live.m3u8
 #EXTINF:-1,Моя Удмуртия
 https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
@@ -327,26 +333,25 @@ http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
 #EXTINF:-1,ЮТВ (Чебоксары)
 http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Українські",Глас
+#EXTINF:-1 group-title="Религия",Глас
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-#EXTINF:-1 group-title="Українські",Надiя
+#EXTINF:-1 group-title="Религия",Надiя
 http://stream.hope.ua/hopeua/live_1/playlist.m3u8
-#EXTINF:-1,Союз
+#EXTINF:-1 group-title="Религия",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,Союз
+#EXTINF:-1 group-title="Религия",Союз
 http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,МузСоюз
+#EXTINF:-1 group-title="Религия",МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1,Hope TV
+#EXTINF:-1 group-title="Религия",Hope TV
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1,Надежда
+#EXTINF:-1 group-title="Религия",Надежда
 http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1,Небеса ТВ7
+#EXTINF:-1 group-title="Религия",Небеса ТВ7
 http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
-#EXTINF:-1,Три Ангела
+#EXTINF:-1 group-title="Религия",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="Російські",Buy Home TV
+#EXTINF:-1 group-title="Телемагазин",Buy Home TV
 http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
 
 #EXTINF:-1,Наше Новое Кино
@@ -834,6 +839,8 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
 #EXTINF:-1,Конный мир
 https://cdn-01.bonus-tv.ru/konnyimir/tracks-v3a1/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Матч!
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 
 #EXTINF:-1,Viasat Спорт
 http://persik.tv/stream/3602/287583/10249.m3u8
