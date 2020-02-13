@@ -3,6 +3,8 @@
 
 #EXTINF:-1 group-title="Українські на YouTube",24 канал
 https://youtu.be/03YfM4lfCGE
+#EXTINF:-1 group-title="Українські на YouTube",NTA
+https://youtu.be/X_Jnk45Ncv8
 #EXTINF:-1 group-title="Українські на YouTube",Прямий
 https://youtu.be/tiWrQKDHs6I
 #EXTINF:-1 group-title="Українські на YouTube",Еспресо TV
@@ -19,8 +21,10 @@ https://youtu.be/3Q11d6I21PE
 https://youtu.be/3e0FsU1N6OQ
 #EXTINF:-1 group-title="Українські на YouTube",НАШ
 https://youtu.be/dktSRgBzANg
+#EXTINF:-1 group-title="Українські на YouTube",EuroNews (рос)
+https://youtu.be/QA8zCWnG4pE
 #EXTINF:-1 group-title="Українські на YouTube",Рабинович ТВ
-https://youtu.be/Lo6K8vKxkeY
+https://youtu.be/Fl1ekQi2GUU
 #EXTINF:-1 group-title="Українські на YouTube",5 канал
 https://youtu.be/1_ej80Wrzco
 
@@ -35,8 +39,6 @@ http://188.35.9.11:11031/z
 
 #EXTINF:-1 group-title="Українські",1+1 HD
 http://dl.dropbox.com/s/1pq0dxy9qpe0v29/VLC_1plus1_HD_.m3u
-#EXTINF:-1 group-title="Українські",1+1
-http://195.5.108.7/hls/1_1/index.m3u8
 
 #EXTINF:-1 group-title="Українські",НТН
 https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
