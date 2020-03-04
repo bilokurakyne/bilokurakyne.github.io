@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,=== Українські телеканали: 01.02.2020 ===
+#EXTINF:-1,=== Українські телеканали: 01.03.2020 ===
 
 #EXTINF:-1 group-title="Українські на YouTube",24 канал
 https://youtu.be/03YfM4lfCGE
@@ -10,7 +10,7 @@ https://youtu.be/tiWrQKDHs6I
 #EXTINF:-1 group-title="Українські на YouTube",Еспресо TV
 https://youtu.be/iTO9Nafubhk
 #EXTINF:-1 group-title="Українські на YouTube",Громадське
-https://youtu.be/07aztv_kHIM
+https://youtu.be/gbxGuP3vGHs
 #EXTINF:-1 group-title="Українські на YouTube",ZiK
 https://youtu.be/gutdqyz26x0
 #EXTINF:-1 group-title="Українські на YouTube",Україна 24
@@ -24,9 +24,9 @@ https://youtu.be/dktSRgBzANg
 #EXTINF:-1 group-title="Українські на YouTube",EuroNews (рос)
 https://youtu.be/QA8zCWnG4pE
 #EXTINF:-1 group-title="Українські на YouTube",Рабинович ТВ
-https://youtu.be/Fl1ekQi2GUU
+https://youtu.be/TZQO6scZ1aM
 #EXTINF:-1 group-title="Українські на YouTube",5 канал
-https://youtu.be/1_ej80Wrzco
+https://youtu.be/lVPWTHUo0PU
 
 #EXTINF:-1 group-title="Українські",Інтер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
@@ -34,6 +34,8 @@ https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 group-title="Українські",ІНТЕР
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1 ,Интер
+http://lb1.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 group-title="Українські",Інтер
 http://188.35.9.11:11031/z
 
@@ -41,11 +43,13 @@ http://188.35.9.11:11031/z
 http://dl.dropbox.com/s/1pq0dxy9qpe0v29/VLC_1plus1_HD_.m3u
 
 #EXTINF:-1 group-title="Українські",НТН
-https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+http://lb1.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 group-title="Українські",НТН
 http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:-1 group-title="Українські",НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 group-title="Українські",НТН
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 
 #EXTINF:-1 group-title="Українські",NTA (Львів)
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
@@ -59,9 +63,8 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
 #EXTINF:-1 group-title="Українські",4 канал
 http://api.tv.ipnet.ua:80/api/v1/manifest/2118742331.m3u8
 
-#EXTINF:-1 group-title="Українські",ТЕТ
-http://195.5.108.7/hls/TET/index.m3u8
-
+#EXTINF:-1 ,К1
+http://lb1.macc.com.ua/life/k1_3/index.m3u8
 #EXTINF:-1 group-title="Українські",К1
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:0 group-title="Українські",k1
@@ -72,7 +75,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 group-title="Українські",Сонце
 http://api.tv.ipnet.ua:80/api/v1/manifest/709640461.m3u8
 
-#EXTINF:0 group-title="Українські",Страна советов
+#EXTINF:0 group-title="Українські",Prime Time
 http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
 
 #EXTINF:-1 group-title="Українські",Сварожичи
@@ -86,16 +89,11 @@ http://188.35.9.11:11082/s
 #EXTINF:0 group-title="Українські",Bolt
 http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
 
-#EXTINF:-1,34 канал
-http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські",KVARTAL TV
+http://193.46.210.28/stream/zc3dgjyuacdaj64ak8vsqit67jef3nnxp8vw7ixehj8pekdt58i89idvtttd6pjv6z4uav43wuyk7fn7y47g2y3vfimf6mdxpmcyh4xi8hb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 
-#EXTINF:0 group-title="Українські",Квартал TV
-https://mfe.svc.ott.zala.by/hls/CH_KVARTALTV_HLS/variant.m3u8
-
-#EXTINF:-1 group-title="Українські",Еко ТВ
+#EXTINF:-1 group-title="Українські",Eco TV
 http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
-#EXTINF:-1 group-title="Українські",ЕКО-ТВ
-http://api.tv.ipnet.ua:80/api/v1/manifest/1311963170.m3u8
 
 #EXTINF:-1 group-title="Українські",100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
@@ -104,9 +102,14 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 group-title="Українські",ОНТ Общественное Независимое Телевидение
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="Українські",ОНТ Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
 
-#EXTINF:-1 group-title="Українські",Трофей HD
-http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_w1068339373_b878000_slukr.m3u8
+#EXTINF:-1 group-title="Українські",Pеноме
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+
+#EXTINF:-1 group-title="Українські",Трофей
+http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
 
 #EXTINF:0 group-title="Українські",Перший Козацький HD
 rtmp://217.20.182.229/live/livestream
@@ -114,10 +117,10 @@ rtmp://217.20.182.229/live/livestream
 #EXTINF:0 group-title="Українські",Надія/Новий канал
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
 
-#EXTINF:-1 group-title="Українські",Твій плюс
-http://62.64.92.118:8080/Apple/1/index.m3u8
+#EXTINF:-1 group-title="Українські",Плюс
+http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
 
-#EXTINF:0 group-title="Українські",Орбiта
+#EXTINF:0 group-title="Українські",Орбiта (Дніпро)
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 
 #EXTINF:-1 group-title="Українські",Правда ТУТ
@@ -164,16 +167,25 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
 http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1 group-title="Українські",Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 ,Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Travel HD BG
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Українські",11 канал (Дніпро)
 http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Українські",34 канал (Дніпро)
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські",En TV
+http://oriontv.net/hls/480.m3u8
+#EXTINF:-1 group-title="Українські",Антена (Сміла TV)
+http://195.95.171.15/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Українські",Галичина
 http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
-#EXTINF:-1 group-title="Українські",Галичина
-http://api.tv.ipnet.ua:80/api/v1/manifest/2118742464.m3u8
+
+#EXTINF:-1 group-title="Українські",Тернопіль 1
+http://185.53.79.12/ternopil1/index.m3u8
 
 #EXTINF:-1 group-title="Українські",Перший західний (Львів)
 http://api.tv.ipnet.ua:80/api/v1/manifest/2118742459.m3u8
@@ -199,47 +211,63 @@ http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Первый городской (Одесса)
 http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
-
+#EXTINF:-1 group-title="Українські",Первый Городской (Кривий Ріг)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:0 group-title="Українські",7 канал HD (Одеса)
+https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
+#EXTINF:-1 group-title="Українські",7 канал (Одеса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 group-title="Українські",А1 (Одеса)
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",А1 HD (Одеса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
 #EXTINF:-1 group-title="Українські",А1 (Одеса) HD
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Академія (Одеса)
+http://cdn1.live-tv.od.ua:8081/36chod/36chod/playlist.m3u8
+#EXTINF:-1 group-title="Українські",KRATU
+http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Odessa Fashion TV
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Renome (Одесса)
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 #EXTINF:-1 group-title="Українські",Simon (Одеса)
 http://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Olvia (Одеса)
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Одесса int.
+http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
+#EXTINF:-1 group-title="Українські",ТРК Круг (Одеса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
 #EXTINF:-1 group-title="Українські",ТРК Репортер (Одеса)
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Думская ТВ TV HD (Одеса)
 http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Bambarbia TV HD (Одеса)
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1 group-title="Українські",GTV HD (Одеса)
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-720p/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Медіа Інформ (Одеса)
 http://cdn1.live-tv.od.ua:8081/mediainfo/miod/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Град (Одеса)
 http://91.194.78.165:8810/hls_sec/239.0.19.20-.m3u8
-#EXTINF:-1 group-title="Українські",Bambarbia TV HD (Одеса)
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1 group-title="Українські",Академія (Одеса)
-http://cdn1.live-tv.od.ua:8081/36chod/36chod/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Інший (Одеса)
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Здоровье (Одеса)
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="Українські",ТIС (Одесса)
-http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ТІС ТВ (Одеса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Третий цифровой (Одеса)
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
-#EXTINF:-1 group-title="Українські",Третий Цифровой (Одеса)
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
-#EXTINF:0 group-title="Українські",7 канал Одесса HD
-https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
 #EXTINF:-1 group-title="Українські",Южная Волна ТВ HD (Одеса)
 http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Южная волна
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
 #EXTINF:-1 group-title="Українські",Южная волна
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
+
+#EXTINF:-1 group-title="Українські",СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Українські",Z (Запорожжя)
 https://stream.ztv.zp.ua/hls/live.m3u8
@@ -250,10 +278,31 @@ http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
 #EXTINF:-1 group-title="Українські",TV5 Запорожжя
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
 
+#EXTINF:-1 group-title="Українські",Измаил ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+
+#EXTINF:-1 group-title="Українські",МТВ (Маріуполь)
+https://live.mariupolskoe.tv:8888/ramdisk/livestream1.m3u8
+
+#EXTINF:-1 group-title="Українські",ТРК Рудана (Кривий Ріг)
+http://live.rudana.com.ua/hls/stream_HD.m3u8
+
+#EXTINF:-1 group-title="Українські",Центральний ТВ
+http://159.224.182.177:8080/Live/stream_720/playlist.m3u8
+
+#EXTINF:-1 group-title="Українські",ЯТБ
+http://46.175.163.130/live_yatb/playlist.m3u8
+
+#EXTINF:-1 group-title="Українські",Місто плюс
+http://93.78.206.172:8080/stream4/stream.m3u8
+
 #EXTINF:-1 group-title="Українські",TV7+ (Хмельницький)
 http://tv7plus.com/hls/tv7.m3u8
 #EXTINF:-1 group-title="Українські",TV7+ (Хмельницький)
 http://tv7plus.com/hls/tv7_site.m3u8
+
+#EXTINF:-1 group-title="Українські",Simon TV (Харків)
+http://hls.simon.ua/live-HD/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Українські",Херсон Плюс
 http://46.175.163.130/ks_plus/index.m3u8
@@ -313,20 +362,14 @@ http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 
 #EXTINF:-1 group-title="Українські",Еспресо
 http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
-#EXTINF:-1 group-title="Українські",Еспресо
-http://api.tv.ipnet.ua:80/api/v1/manifest/2007567821.m3u8
 
 #EXTINF:-1 group-title="Українські",24 канал
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
-#EXTINF:-1 group-title="Українські",24 канал
-http://api.tv.ipnet.ua:80/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 group-title="Українські",24 канал HD
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
 
 #EXTINF:-1 group-title="Українські",Київська Русь (КРТ)
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
-#EXTINF:-1 group-title="Українські",КРТ
-http://api.tv.ipnet.ua:80/api/v1/manifest/1298864660.m3u8
 
 #EXTINF:-1 group-title="Українські",ТРК Київ
 http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
@@ -340,8 +383,9 @@ http://api.tv.ipnet.ua:80/api/v1/manifest/1312714970.m3u8
 
 #EXTINF:-1 group-title="Українські",Наш
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
-#EXTINF:-1 group-title="Українські",Наш
-http://api.tv.ipnet.ua:80/api/v1/manifest/1293296550.m3u8
+
+#EXTINF:-1 group-title="Українські",NewsOne
+http://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/index.m3u8
 
 #EXTINF:-1 group-title="Українські",112 Україна
 http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
@@ -365,8 +409,6 @@ http://api.tv.ipnet.ua:80/api/v1/manifest/2007308341.m3u8
 
 #EXTINF:-1 group-title="Українські",Малятко
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
-#EXTINF:-1 group-title="Українські",Малятко ТВ
-http://api.tv.ipnet.ua:80/api/v1/manifest/1311963260.m3u8
 #EXTINF:0 group-title="Українські",Niki Junior
 http://213.174.8.7:9100/index.m3u8
 #EXTINF:-1 group-title="Українські",HD Fashion UA
@@ -435,8 +477,6 @@ http://178.124.183.5/hls/V8TRED4CZL_HLS/variant.m3u8?version=2
 http://188.35.9.26:16050/udp/238.0.16.1:69000
 #EXTINF:0,Русский Роман HD
 http://188.35.9.5:10007/stolen/127k/parasite.install
-#EXTINF:-1,НСТ
-http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
 
 #EXTINF:-1,Marvel ТВ
 http://v3.myowntv.org/content/35525/index.m3u8
@@ -476,8 +516,6 @@ http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
 #EXTINF:-1,TV1000 Action
 http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
 
-#EXTINF:-1,3 film
-http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1,KVN-HD
 http://hls.goodgame.ru:8080/hls/172148.m3u8
 #EXTINF:-1,Кинозал 3 ULTO
