@@ -88,9 +88,6 @@ http://188.35.9.11:11082/s
 #EXTINF:0 group-title="Українські",Bolt
 http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
 
-#EXTINF:-1 group-title="Українські",KVARTAL TV
-http://193.46.210.28/stream/zc3dgjyuacdaj64ak8vsqit67jef3nnxp8vw7ixehj8pekdt58i89idvtttd6pjv6z4uav43wuyk7fn7y47g2y3vfimf6mdxpmcyh4xi8hb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-
 #EXTINF:-1 group-title="Українські",Eco TV
 http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
 
@@ -177,6 +174,9 @@ http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
 http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
 #EXTINF:-1 group-title="Українські",11 канал (Дніпро)
 http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Українські",11 канал (Дніпро)
+rtmp://212.3.106.230:1935/live/livestream
+
 #EXTINF:-1 group-title="Українські",34 канал (Дніпро)
 http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 #EXTINF:0 group-title="Українські",Орбiта (Дніпро)
@@ -333,6 +333,13 @@ http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 group-title="Українські",21 канал (Ужгород)
 http://213.174.8.7:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="Українські",21 канал (Ужгород)
+rtmp://213.174.8.15:1935/live/danio
+#EXTINF:-1 group-title="Українські",9 канал (2+2)
+rtmp://212.115.229.81:1935/out/9tv_fb
+
+#EXTINF:-1 group-title="Українські",Алекс
+rtmp://46.46.112.223/live/livestream1
 
 #EXTINF:-1 group-title="Українські",Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
