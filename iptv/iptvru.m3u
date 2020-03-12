@@ -8,19 +8,15 @@ https://youtu.be/8T9SFZDP60Q
 #EXTINF:-1 group-title="YouTube online",Мир 24 YouTube
 https://youtu.be/fc6IJmpMcEQ
 #EXTINF:-1 group-title="YouTube online",РБК YouTube
-https://youtu.be/o-wH54cty5c
+https://youtu.be/mDkIGEz2oOQ
 #EXTINF:-1 group-title="YouTube online",Euronews-Россия YouTube
-https://youtu.be/X0rMLGyJVoc
+https://youtu.be/QA8zCWnG4pE
 #EXTINF:-1 group-title="YouTube online",Москва 24 YouTube
-https://youtu.be/e12myorIZHQ
-#EXTINF:-1 group-title="YouTube online",ТК Дождь YouTube
-https://youtu.be/50czbbduH98
+https://youtu.be/RqSI9hPP5BA
 #EXTINF:-1 group-title="YouTube online",Вести ФМ YouTube
 https://youtu.be/zUIE8CGN8Ok
 #EXTINF:-1 group-title="YouTube online",Настоящее время YouTube
-https://youtu.be/yGIJgHYkcoE
-#EXTINF:-1 group-title="YouTube online",Авторадио YouTube
-https://youtu.be/krI2-vfzRF8
+https://youtu.be/Xq2irstnPwE
 #EXTINF:-1 group-title="YouTube online",Good Life Radio YouTube
 https://youtu.be/VIWVfkF2IeI
 
@@ -30,16 +26,8 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="Російські",Россия 1 +6 (Чита)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
-#EXTINF:-1 group-title="Російські",Россия 1 (ГТРК Чувашия)
-http://chgtrk.ru/pl/stream/hls/R1_360p/index.m3u8
 #EXTINF:-1 group-title="Російські",Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Російські",Первый канал
-http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 group-title="Російські",Москва 24
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Російські",Russia Today Док
-http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Російські",Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Російські",Московский образовательный ТВ HD
@@ -48,16 +36,10 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Російські",360°
 http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 group-title="Російські",360°
-https://strm.yandex.ru/kal/360tv/360tv0.m3u8
-#EXTINF:-1 group-title="Російські",360° Новости
-http://360tv-cdn.facecast.io/360/channel1/1.m3u8
 #EXTINF:-1 group-title="Російські",47 Канал (ЛенТВ 24)
 http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
 #EXTINF:-1 group-title="Російські",8 Канал
 http://176.99.110.252/stream8/playlist.m3u8
-#EXTINF:-1 group-title="Російські",Akudji
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8
 
 #EXTINF:-1,GlobalStar TV
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
