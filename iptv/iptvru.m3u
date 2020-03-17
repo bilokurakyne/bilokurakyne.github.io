@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,=== Російські телеканали: 16.03.2020 ===
+#EXTINF:-1,=== Російські телеканали: 17.03.2020 ===
 
 #EXTINF:-1 group-title="YouTube online",НТВ YouTube
 https://youtu.be/wqPby9nOAKI
@@ -17,8 +17,6 @@ https://youtu.be/RqSI9hPP5BA
 https://youtu.be/zUIE8CGN8Ok
 #EXTINF:-1 group-title="YouTube online",Настоящее время YouTube
 https://youtu.be/Xq2irstnPwE
-#EXTINF:-1 group-title="YouTube online",Good Life Radio YouTube
-https://youtu.be/VIWVfkF2IeI
 
 #EXTINF:-1 group-title="Російські",Россия 24
 https://rt-cache1.peers.tv/streaming/vesti/126/variable.m3u8
@@ -40,7 +38,6 @@ http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Російські",РТР Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-
 
 #EXTINF:-1 group-title="Російські",Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
@@ -1146,196 +1143,132 @@ http://45.140.93.78:999/udp/239.191.254.114:15285
 #EXTINF:-1 group-title="XXX",HotClub 2 FHD Adult
 http://pdsrv.io:80/nlfcqvxg/9w6f7O1ckE/35593
 
-#EXTINF:-1 ,Pornstar HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Pornstar HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pornstar.m3u8
-#EXTINF:-1 ,Shemale Tube TV 2
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Shemale Tube TV 2
 http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 ,XXX
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",XXX
 http://s1.hdporus.com/content/vod/s2247/480/index.m3u8
-#EXTINF:-1 ,Babestation 2
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Babestation 2
 https://ss3.firestormmedia.tv/cellcast2/smil:encoder3.smil/manifest.m3u8
-#EXTINF:-1 ,BabeStation 24
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",BabeStation 24
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
-#EXTINF:-1 ,Babestation Xtra
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Babestation Xtra
 https://ss4.firestormmedia.tv/cellcast2/smil:encoder7.smil/manifest.m3u8
-#EXTINF:-1 ,Jasmin TV
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 ,Jasmin TV HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Jasmin TV HD
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 ,Miami TV
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1 ,Visit-X
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Visit-X
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-#EXTINF:-1 ,Visit-X HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Visit-X HD
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 ,AST TV
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",AST TV
 http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 ,AST TV HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",AST TV HD
 https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 ,Babestation Xtreme
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Babestation Xtreme
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-#EXTINF:-1,Babestation 2
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Babestation 2
 https://ss3.firestormmedia.tv/cellcast2/smil:encoder3.smil/manifest.m3u8
-#EXTINF:-1,BabeStation 24
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",BabeStation 24
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
-#EXTINF:-1,Babestation Xtra
-#EXTGRP:Взрослые 18+https://ss4.firestormmedia.tv/cellcast2/smil:encoder7.smil/manifest.m3u8
-#EXTINF:-1,Jasmin TV
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Babestation Xtra
+https://ss4.firestormmedia.tv/cellcast2/smil:encoder7.smil/manifest.m3u8
+#EXTINF:-1 group-title="XXX",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,Jasmin TV HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Jasmin TV HD
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1,Miami TV
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1,Miami TV (Latin)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Miami TV (Latin)
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
-#EXTINF:-1,Visit-X
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Visit-X
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-#EXTINF:-1,Visit-X HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Visit-X HD
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1,Babestation Xtreme
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Babestation Xtreme
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-#EXTINF:-1,Big Ass
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1,Big Ass HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Big Ass HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
-#EXTINF:-1,Big Dick
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1,Big Dick HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Big Dick HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigdick.m3u8
-#EXTINF:-1,Big Tits HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Big Tits HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigtits.m3u8
-#EXTINF:-1,Blonde
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1,Blowjob HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Blowjob HD
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1,Brazzers TV Europe
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Brazzers TV Europe
 http://217.117.113.24:4022/udp/230.3.4.143:5678
-#EXTINF:-1,Brunette
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1,Compilation
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Compilation
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1,Cuckold
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Cuckold
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1,Cuckold HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Cuckold HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/cuckold.m3u8
-#EXTINF:-1,Fetish HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Fetish HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/fetish.m3u8
-#EXTINF:-1,French Lover
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",French Lover
 http://37.235.156.204:81/udp/225.50.70.7:1234
-#EXTINF:-1,French Lover HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",French Lover HD
 http://37.235.139.11:81/udp/225.50.70.5:1234
-#EXTINF:-1,Gangbang
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1,Hardcore HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Hardcore HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
-#EXTINF:-1,Interracial
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Interracial
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1,Interracial HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Interracial HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/interracial.m3u8
-#EXTINF:-1,Latina
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1,Latina HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Latina HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/latina.m3u8
-#EXTINF:-1,Lesbian
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1,Lesbian HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Lesbian HD
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1,Live Cams
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1,Milf HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Milf HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/milf.m3u8
-#EXTINF:-1,Pornstar
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
 #EXTINF:-1,Pornstar HD
-#EXTGRP:Взрослые 18+
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pornstar.m3u8
-#EXTINF:-1,POV
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",POV
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1,POV HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",POV HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pov.m3u8
-#EXTINF:-1,Rough
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1,Russian
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1,Russian HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Russian HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/russian.m3u8
-#EXTINF:-1,Shemale Tube TV 2
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Shemale Tube TV 2
 http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1,Teen
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1,Teen HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Teen HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/teen.m3u8
-#EXTINF:-1,Threesome
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1,Threesome HD
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Threesome HD
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1,XXX
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",XXX
 http://s1.hdporus.com/content/vod/s2247/480/index.m3u8
-#EXTINF:-1,Русская Ночь
-#EXTGRP:Взрослые 18+
+#EXTINF:-1 group-title="XXX",Русская Ночь
 http://188.113.190.12/318/video.m3u8
-
-
 
 #EXTINF:-1,Sky News live
 https://youtu.be/9Auq9mYxFEE
